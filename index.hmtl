@@ -1,1 +1,59 @@
 
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Encantado</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Mundo Real & Encantado</h1>
+        <p>Um espaço de magia, coroas e curiosidades do universo das princesas</p>
+    </header>
+    <main>
+        <article>
+            <img src="imagem-blog.png" alt="Ilustração de uma tiara e um livro mágico de contos de fadas com brilhos.">
+            <div>
+                <h2>Boas-Vindas ao Meu Reino!</h2>
+                <p class="artigo-autor">Por: Rafaely Santos Silva</p>
+                <p>Sejam bem-vindos ao meu blog! Aqui vou compartilhar histórias, fatos e segredos fascinantes sobre a realeza e o universo das princesas.</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-sapatinho.jpg" alt="Ilustração de um delicado sapatinho de cristal brilhante sobre uma almofada roxa.">
+            <div>
+                <h2>O Verdadeiro Sapatinho da Cinderela</h2>
+                <p class="artigo-autor">Por: Rafaely Santos Silva</p>
+                <p>Nas versões originais mais antigas do conto de fadas francês, o sapato não era feito de vidro, mas sim de veludo e pelagem fina!</p>
+                <p class="artigo-fonte">Fonte: Guia dos Curiosos</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-castelo.jpg" alt="Ilustração de um castelo cor-de-rosa com torres altas e uma bandeira no topo.">
+            <div>
+                <h2>O Castelo de Neuschwanstein</h2>
+                <p class="artigo-autor">Por: Rafaely Santos Silva</p>
+                <p>O famoso castelo da Cinderela e da Bela Adormecida nos parques foi inspirado em um castelo real construído na Alemanha no século XIX.</p>
+                <p class="artigo-fonte">Fonte: História Viva</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-coroa.jpg" alt="Ilustração de uma coroa dourada cravejada de pedras preciosas roxas e rosas.">
+            <div>
+                <h2>A Tradição das Tiara Reais</h2>
+                <p class="artigo-autor">Por: Rafaely Santos Silva</p>
+                <p>Na vida real, as princesas costumam usar tiaras em eventos de gala apenas após o casamento, como um símbolo de transição para a vida adulta.</p>
+                <p class="
